@@ -1,5 +1,5 @@
 import {useState, useEffect } from 'react'
-import Card from './component/card'
+import Card from './component/Card.jsx'
 import { FaYoutube } from "react-icons/fa";
 import { SlSocialTwitter } from "react-icons/sl";
 import { IoLogoInstagram } from "react-icons/io";
